@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-- FullStack Developer 💻
+- FullStack Developer/React/Node 💻
 <br>
 <br>
                                                                                 
